@@ -3,11 +3,6 @@
 This test suite validates session persistence and cart synchronization across two concurrent browser sessions using the same OpenCart account. It ensures that updates in one browser are reflected in real-time in the other.
 
 ▶️ How to Run the Tests:
-Prerequisites:
-->Java 11+
-->Maven installed
-->Internet connection 
-
 Steps:
 Open the project in your IDE (e.g., IntelliJ or Eclipse)
 Locate the testng.xml file in the project root
