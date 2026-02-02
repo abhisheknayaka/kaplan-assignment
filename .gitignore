@@ -1,0 +1,34 @@
+# Maven / Java
+openkart/target/
+bin/
+*.class
+*.log
+
+# Eclipse / IntelliJ / VSCode files
+*.iml
+*.idea/
+*.project
+*.classpath
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TestNG / Selenium
+test-output/
+screenshots/
+results/
+
+# Optional: local environment / credentials
+.env
+*.properties
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Logs and temporary files
+*.log
